@@ -13,7 +13,7 @@ The purpose of this analysis is to explore weather data using new tools such as 
   - 50%	quartile is 75
   - 75% quartile is	77
   - Maximum temp recorded is 85
-  - Original Descrptive Stats Chart [June Temps Stats](  )
+  - Original Descrptive Stats Chart [June Temps Stats](https://github.com/josafathpelayo/surfs_up/blob/main/Pictures/June%20temps%20chart.png)
 
 - December Temperatures
   - Total count	of temps is 1517
@@ -24,7 +24,7 @@ The purpose of this analysis is to explore weather data using new tools such as 
   - 50% quartile is	71
   - 75% quartile is	74
   - Maximum temp recorded is  83
-  - Original Descrptive Stats Chart [June Temps Stats](  )
+  - Original Descrptive Stats Chart [December Temps Stats](https://github.com/josafathpelayo/surfs_up/blob/main/Pictures/December%20temp%20chart.png)
 
 - Notable takeaways
   - Both months have almost similiar tempuartures as both were in the 70's. The avg. temperature of June was 71.04 as for December it was 74.94
@@ -33,7 +33,7 @@ The purpose of this analysis is to explore weather data using new tools such as 
   - The big difference is the lowest temperature recorded as June had 64 as December recorded 56.
 
 ## Summary
-The anlaysis for temperature statistics in the months of June and December has given an insight of how well the surf and ice cream shop will do as temperatures didn't fluctate drastically. Both months recorded similiar highs and average temps. Overall if the surf and ice cream shop performance is solely going to be based on temperatures, sales should be consistent year round due to having good tempuratures to sell ice cream and surf material. This is based on the correlation that ice cream sales tend to increase as temperature rises. Although tempurature is a major factor in predicting beautiful weather, this does not promise good weather for surfing or selling ice cream completely. Opening this specific of a business in a tropical setting can have a downfall for businesses as tropical storms, and other factors need to be taken into consideration. One querry that can be used to help this small business to blossom is to find the amount of peripitation for both months or even every month to see which month will have lower sales. Another query that can be done is to have both temperatue and percipitation measurements to see if there's a correlation between the two than can possible effect sales. In conclusion, the tropical setting of Oahu, Hawaii can be great for tourism, but  outside factors besides weather can play a major role if the business suceeds or not. 
+The anlaysis for temperature statistics in the months of June and December has given an insight of how well the surf and ice cream shop will do as temperatures didn't fluctate drastically. Both months recorded similiar highs and average temps. Overall if the surf and ice cream shop performance is solely going to be based on temperatures, sales should be consistent year round due to having good tempuratures to sell ice cream and surf material. This is based on the correlation that ice cream sales tend to increase as temperature rises. Although tempurature is a major factor in predicting beautiful weather, this does not promise good weather for surfing or selling ice cream completely. Opening this specific of a business in a tropical setting can have a downfall for businesses as tropical storms, and other factors need to be taken into consideration. One querry that can be used to help this small business to blossom is to find the amount of precipitation for both months or even every month to see which month will have lower sales. Another query that can be done is to have both temperatue and precipitation measurements to see if there's a correlation between the two than can possible effect sales. In conclusion, the tropical setting of Oahu, Hawaii can be great for tourism, but  outside factors besides weather can play a major role if the business suceeds or not. 
   
   
   - 
